@@ -1,5 +1,5 @@
 ### Hi there 👋
-😁Welcome!🐱‍👤
+😁Welcome
 
 📖 I’m currently learning Android Development.
 
