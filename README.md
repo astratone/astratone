@@ -1,7 +1,6 @@
 ### Hi there 👋
 😁Welcome
 
-📖 I’m currently learning Android Development.
 
 
 ![Astratone's GitHub stats](https://github-readme-stats.vercel.app/api?username=astratone&show_icons=true&theme=gotham)
