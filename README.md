@@ -1,9 +1,14 @@
 ### Hi there 👋
 😁Welcome
 
+I'm currently learning Python.
+
 
 
 ![Astratone's GitHub stats](https://github-readme-stats.vercel.app/api?username=astratone&show_icons=true&theme=gotham)
+
+
+![Code Wars](https://www.codewars.com/users/astratone/badges/large)
 
 
 <!--
