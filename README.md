@@ -1,7 +1,6 @@
 ### Hi there 👋
 😁Welcome
 
-I'm currently learning Python.
 
 
 
